@@ -1,7 +1,9 @@
-public class Loop{
+
+package first;
+public class Loops{
   public static void main(String[] args){
-    
-    for(int i=0; i<str.length();i++){
+    String str="strkfj";
+    for(int i=0; i<5;i++){
     }
   }
   
